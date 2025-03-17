@@ -1,6 +1,6 @@
 ### 사칙연산 함수 정의
 def plus(a, b):
-    return a + b
+    return float(a) + float(b)
 
 def minus(a, b):
     return a - b
